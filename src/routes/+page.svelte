@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="main">
+    <a href="/about">About me</a>
+    <a href="/pic">My gallery</a>
+
+</div>
+
+<style>
+    .main {
+        
+    }
+    
+</style>
