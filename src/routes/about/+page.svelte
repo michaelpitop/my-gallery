@@ -6,3 +6,11 @@
 
 <img src={ profile } alt="profile_pic">
 <p>Hi! Thank you for checking out my gallery, I've resently started liking asdsasadas and i thought to make this gallery and add all my drawings in it :D</p>
+
+
+<style>
+    img {
+        width: 200px;
+        height: 200px;
+    }
+</style>
