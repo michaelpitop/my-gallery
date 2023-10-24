@@ -1,12 +1,7 @@
-<div class="main">
-    <a href="/about">About me</a>
-    <a href="/pic">My gallery</a>
-
+<div>
+    <h1>Title</h1>
+    <h2>about this page</h2>
+    <form action="text">
+        <input type="text" id="fname" name="fname"><br><br>
+    </form>
 </div>
-
-<style>
-    .main {
-        
-    }
-    
-</style>
